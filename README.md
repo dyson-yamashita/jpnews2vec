@@ -4,6 +4,7 @@ JpNews2vec create word2vec and doc2vec models from japanese news articles.
 The JpNews2vec uses gensim to create the models.
 
 ## Confirmed environments
+- Python 3.5.2 :: Anaconda custom (64-bit)
 - gensim: 1.0.1
 - sqlite3: 2.6.0
 - MeCab: 0.996
