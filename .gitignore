@@ -5,3 +5,4 @@ dist/*
 data/*
 log/*
 notebook/.ipynb_checkpoints/*
+!empty
